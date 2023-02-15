@@ -6,4 +6,5 @@ PARTICIPANTES:
   Sergio Maeso
   Eloy Pérez
 
+Lenguaje utilizado: HTML/CSS
 
